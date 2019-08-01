@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beaver Ambassadors</title>
+    <link>/authors/admin/</link>
+    <description>Recent content on Beaver Ambassadors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Beaver Ambassadors</copyright>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Website Update</title>
+      <link>/post/website_update/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/website_update/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-the-new-look-at-ba&#34;&gt;Welcome to the new look at BA!&lt;/h1&gt;
+
+&lt;h2 id=&#34;we-have-more-options&#34;&gt;We have more options&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://web.pdx.edu/~scm6/westlinn_leaflet.html&#34; target=&#34;_blank&#34;&gt;Better linking&lt;/a&gt; to cool apps we&amp;rsquo;ve made for the community&lt;/p&gt;
+
+&lt;p&gt;We can more easily manipulate text &lt;code&gt;like highlighting&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;for-advanced-users-perhaps-in-r-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;For advanced users &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;perhaps in R&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We can add snippets of code you could add to your project, or help you start your own!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;leaflet() pipe
+  color = blue
+  addMarkers = etc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;inserting-pictures&#34;&gt;Inserting pictures&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/spirea_bee.jpg&#34; alt=&#34;spirea_bee&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have &lt;em&gt;way&lt;/em&gt; more capabilities in terms of adding albums and linking to other cool pictures, but for now here is a picture of a bumble bee on spirea!&lt;/p&gt;
+
+&lt;h2 id=&#34;stay-tuned&#34;&gt;Stay tuned!&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Beaver Ambassadors started in West Linn, Oregon, as a way to increase awareness around our community about beavers that live in West Linn and why this species is so important to the natural ecosystem. We work with schools, organizations, individuals, and volunteers around parks and at community events to celebrate and promote the function of beavers in our parks and rivers. The systems beavers create are so much more than beaver ponds for beavers! Trees, amphibians, fish, mammals, people, and all life benefits from beavers just doing there thing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Beaver Ambassadors</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Beaver Ambassadors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Beaver Ambassadors</copyright>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Website Update</title>
+      <link>/post/website_update/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/website_update/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-the-new-look-at-ba&#34;&gt;Welcome to the new look at BA!&lt;/h1&gt;
+
+&lt;h2 id=&#34;we-have-more-options&#34;&gt;We have more options&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://web.pdx.edu/~scm6/westlinn_leaflet.html&#34; target=&#34;_blank&#34;&gt;Better linking&lt;/a&gt; to cool apps we&amp;rsquo;ve made for the community&lt;/p&gt;
+
+&lt;p&gt;We can more easily manipulate text &lt;code&gt;like highlighting&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;for-advanced-users-perhaps-in-r-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;For advanced users &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;perhaps in R&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;We can add snippets of code you could add to your project, or help you start your own!&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;leaflet() pipe
+  color = blue
+  addMarkers = etc
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;inserting-pictures&#34;&gt;Inserting pictures&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/spirea_bee.jpg&#34; alt=&#34;spirea_bee&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We have &lt;em&gt;way&lt;/em&gt; more capabilities in terms of adding albums and linking to other cool pictures, but for now here is a picture of a bumble bee on spirea!&lt;/p&gt;
+
+&lt;h2 id=&#34;stay-tuned&#34;&gt;Stay tuned!&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
