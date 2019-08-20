@@ -8,7 +8,7 @@ event: Meet the Beavers
 event_url:
 featured: false
 image:
-  caption: 'Image credit: Steven M.'
+  caption: 'Image credit: ["Steven M."]'
   focal_point: Right
 links:
 - icon: instagram
@@ -37,7 +37,7 @@ The Beaver Ambassadors project began at Mary S. Young Park in West Linn because 
 
 What & Where: Meet the Beavers at Mary S. Young Park
 
-When: Tuesday nights throughout the month of July 2019. 8pm-9:30pm
+When: Last one of the summer! August 20th, 8pm-9:30pm
 
 Who: Anyone who enjoys nature! I’m a dog lover, but please leave your canine at home. This will make for better wildlife interactions.
 
