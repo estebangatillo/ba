@@ -1,11 +1,11 @@
 ---
-date: "2018-09-09T00:00:00Z"
+date: "2019-08-20T00:00:00Z"
 draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: An Example Course
+lastmod: "2019-08-20T00:00:00Z"
+linktitle: lessons
 menu:
   example:
-    name: Overview
+    name: Lessons
     weight: 1
 summary: Lessons adapted and/or written by Beaver Ambassadors
 title: Lesson plans
@@ -29,9 +29,12 @@ These traits make beavers one of the most efficient *ecosystem engineers* in the
 
 Find the Beaver Ambassador slide show [here]. Other programs have devised similar lesson plans as well:
 
-* [Buffalo Bill Center of the West]
-* [Colorado Parks and Wildlife]
-* [North Carolina Parks via Worth a Dam]
+* [Buffalo Bill Center of the West](https://centerofthewest.org/wp-content/uploads/2014/02/Animal-Adaptations_Dress-A-Beaver-Activity.pdf)
+* [Colorado Parks and Wildlife](https://cpw.state.co.us/Documents/Education/TeacherResources/MediaKitsCrates/Durango-Beaver-Adaptations-Lesson-Plan.pdf)
+* [North Carolina Parks via Worth a Dam](https://www.martinezbeavers.org/wordpress/wp-content/uploads/2014/10/build-a-beaver-outline.pdf)
+
+
+
 
 ## Endangered Species of Oregon
 
