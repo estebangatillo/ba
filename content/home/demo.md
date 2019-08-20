@@ -55,6 +55,6 @@ _Helping build ecosystems_
 
 - Prevent floods
 
-- Increasing biodiversity
+- Increase biodiversity
 
 - So much more!
