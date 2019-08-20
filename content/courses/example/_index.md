@@ -7,50 +7,75 @@ menu:
   example:
     name: Overview
     weight: 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software
-  documentation, and tutorials.
-title: Overview
+summary: Lessons adapted and/or written by Beaver Ambassadors
+title: Lesson plans
 toc: true
 type: docs
 weight: 1
 ---
 
-## Flexibility
+Activities are designed to be as interactive as possible. Students are asked to participate in each lesson. Lessons are divided between K-5 (primary), 6-8 (middle) and 8-12 (high)
 
-This feature can be used for publishing content such as:
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+## Become a Beaver
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+This lesson demonstrates adaptations beavers evolved to live a semi-aquatic life:
 
-## Delete tutorials
+* **Features for swimming**
+* **Traits for building dams**
+* **Qualitites for chewing through trees**
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
+These traits make beavers one of the most efficient *ecosystem engineers* in the world.
 
-## Update site menu
+Find the Beaver Ambassador slide show [here]. Other programs have devised similar lesson plans as well:
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+* [Buffalo Bill Center of the West]
+* [Colorado Parks and Wildlife]
+* [North Carolina Parks via Worth a Dam]
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
+## Endangered Species of Oregon
 
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
+This lesson introduces ESA legislation and helps to answer these questions:
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
+* What is the Endangered Species Act?
+* How does it help endangered or threatened plants and animals?
+* What animals in Oregon are on the Endangered species list?
+* Who decides how and what plant or animal to add to the list?
+* What can we do to help?
 
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
 
-## Update the docs menu
+## Basic Ecological Models
 
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+This lesson demonstrates how to visualize relationships and interactions between biotic and abiotic components within a wetland [insert figure].
+
+Building models is a foundational element of conceptual thinking, so this lesson can work exceptionally well with any science unit educators are currently teaching (i.e. decomposition cycles, forests, bacteria, etc.)
+
+
+## Sensory Scavenger Hunt
+
+Adapted from a similar activity developed by Friends of the Tualatin River Wildlife Refuge. This activity gives students the task of experiencing nature by locating plants and animals using different senses like hearing, smelling, seeing and touch. [insert example]
+
+[link to friends of TRNWR example]
+
+
+## Introduction to GIS
+
+Geographic Information Systems (GIS) is an important tool for ecologists and can be used in many different, complex ways. High school students can benefit from an early introductory lesson to GIS, how some professionals use GIS and what students can do with GIS tools.
+
+
+## Wildlife Management
+
+Students are asked to solve conflicts created by urban wildlife at a city park within West Linn, Oregon. A scenario was provided with constraints that reflect the way city administrators perceive related issues. Students were asked to consider in their solution things like cost, feasibility and community response.
+
+
+## Field Sampling Methods
+
+Students conduct quadrat and transect sampling methods as a field exercise where they learned random sampling methods, percent canopy cover and basic plant identification. Transect and quadrat sampling was compared to sampling using the app iNaturalist which records single observations of all living things.
+
+
+
+## Introduction to Excel using Biodiversity Indicies
+
+Students are introduced to equations designed to analyze biodiversity. Both Shannon’s and Simpson’s Biodiversity Indices are explained. Concepts including relative abundance, evenness, and richness are described. Students use their own collected data (or otherwise generated data) to develop a spreadsheet that solved for Shannon’s and Simpson’s Diversity Index. Basic excel skills are used in developing the spreadsheet.
+
+
