@@ -17,6 +17,8 @@ weight: 1
 Activities are designed to be as interactive as possible. Students are asked to participate in each lesson. Lessons are divided between K-5 (primary), 6-8 (middle) and 8-12 (high)
 
 
+**Primary school lessons**
+
 ## Become a Beaver
 
 This lesson demonstrates adaptations beavers evolved to live a semi-aquatic life:
@@ -61,14 +63,20 @@ Adapted from a similar activity developed by Friends of the Tualatin River Wildl
 [link to friends of TRNWR example]
 
 
+
+**High school lessons**
+
+
 ## Introduction to GIS
 
 Geographic Information Systems (GIS) is an important tool for ecologists and can be used in many different, complex ways. High school students can benefit from an early introductory lesson to GIS, how some professionals use GIS and what students can do with GIS tools.
 
 
+
 ## Wildlife Management
 
 Students are asked to solve conflicts created by urban wildlife at a city park within West Linn, Oregon. A scenario was provided with constraints that reflect the way city administrators perceive related issues. Students were asked to consider in their solution things like cost, feasibility and community response.
+
 
 
 ## Field Sampling Methods

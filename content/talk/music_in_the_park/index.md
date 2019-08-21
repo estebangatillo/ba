@@ -2,13 +2,13 @@
 abstract: 
 all_day: false
 authors: []
-date: "2019-07-25T18:30:00Z"
+date: "2019-08-22T18:30:00Z"
 date_end: "2019-08-29T21:00:00Z"
 event: Music in the Park
-event_url: https://westlinnoregon.gov/musicinthepark/music-park-sister-mercy
+event_url: https://westlinnoregon.gov/musicinthepark/music-park-girl-cant-help-it
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://www.sistermercy.rocks/wp-content/uploads/2018/02/SM2.jpg)'
+  caption: 
   focal_point: Right
 links:
 - icon: twitter
@@ -29,9 +29,8 @@ url_slides: ""
 url_video: ""
 ---
 
-Beaver Ambassadors will represent West Linn's wildlife and natural space at Music in the Park this summer! Here is info for the first band performing this year:
+
+Here is info for the Journey cover band performing this Thursday:
 
 
-HIGH ENERGY R&B BLUES BAND featuring APRIL BROWN
-
-SISTER MERCY possesses a high energy, blues driven sound. Lead singer April Brown is mesmerizing with her powerful, beautiful presence, full range vocals and complete joy in performance. The talented Scott Garcia adds guitar and vocal textures.  Rounded out with Roger Espinor on drums, John Webb on bass and Debby Espinor on keys. Semifinalist in the International Blues Challenge 2016 and going to Memphis again in 2018, SISTER MERCY was nominated for best new band for the Muddy Awards SISTER MERCY represents the Cascade Blues Association of Portland, Oregon. SISTER MERCY presents music that is a pleasure for the ears and a show that is a feast for the eyes.
+Portland based Journey tribute, “Girl Can’t Help It,” will have you Captured from Arrival to Departure, staying true to the original recordings with lead singer Miaya Shambry’s gritty powerhouse vocals, Dan Johnson slayin’ the guitar solos, Natasha Flynn’s timeless piano/synth hooks, Dianna Hnatiw driving deep on drums, and April Krubel bringin’ it, backing up the signature three part female harmonies that make this band’s unique take on old Journey favorites.
