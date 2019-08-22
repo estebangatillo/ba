@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Educational Material"
-  url = "courses/"
+  url = "Lessons/"
   weight = 50
 
 [[main]]
