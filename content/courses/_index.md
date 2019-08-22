@@ -3,6 +3,6 @@ header:
   caption: ""
   image: ""
 layout: docs
-title: lessons/
+title: courses
 ---
 
