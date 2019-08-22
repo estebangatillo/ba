@@ -3,10 +3,6 @@ date: "2019-08-20T00:00:00Z"
 draft: false
 lastmod: "2019-08-20T00:00:00Z"
 linktitle: lessons
-menu:
-  example:
-    name: Lesson Plans
-    weight: 1
 summary: Lessons adapted and/or written by Beaver Ambassadors
 title: Lesson plans
 toc: true
