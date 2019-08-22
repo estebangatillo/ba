@@ -34,6 +34,8 @@ subtitle = ""
 image = "headers/beaver_header.jpg"  # Name of image in `static/img/`.
   
   
+  
+  
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
