@@ -9,7 +9,7 @@ title = "Beaver Ambassadors"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL = "https://beaverambassadors.com/"
+baseURL = "https://beaverambassadors.org/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
