@@ -1,23 +1,36 @@
 ---
-title: Bark Out About Beavers on Mt. Hood!
-author: admin
-date: '2019-09-11'
-slug: Mt. Hood Beavers
-categories: []
-tags:
-  - beavers
-  - Outreach
-  - presentations
-subtitle: ''
-summary: ''
+abstract: 
+all_day: false
 authors: []
-lastmod: '2019-07-18T12:27:52-07:00'
-featured: no
+date: "2019-09-11T18:30:00Z"
+date_end: "2019-09-11T20:30:00Z"
+event: September Ecology Club
+event_url: https://www.facebook.com/events/2311489129102859/
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
-projects: []
+  caption: 'Image credit: Bark'
+  focal_point: Right
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/barkformthood?lang=en
+- icon: facebook
+  icon_pack: fab
+  name: Follow
+  url: https://www.facebook.com/barkformthood/
+location: Bark office: 351 NE 18th Ave, Portland, Oregon 97232
+math: true
+projects:
+publishDate: "2019-09-09T17:00:00Z"
+slides: 
+summary: ALL AGES, FREE, NO PRE-REGISTRATION REQUIRED
+tags: [outreach]
+title: Bark About Beavers on Mt. Hood!
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 Flap your tail and get ready to have a dam good time, this presentation/discussion is a wild ride full of fun facts and heart warming anecdotes about our furry friends the beavers! Steven murschel is an environmental scientist passionate about native flora and fauna, wetlands, and urban ecology. Beavers seamlessly intersect these topics in unexpectedly impactful ways. Steven (everyone calls him Esteban) is most interested in fostering our perceptions of these impacts in ways that benefit people, the environment, and the beavers! This talk will focus on asking (and attempting to answer) the question “why are we relocating beavers and why should we care?”
