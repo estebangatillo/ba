@@ -2,10 +2,10 @@
 abstract: 
 all_day: false
 authors: []
-date: "2019-08-31T11:00:00Z"
-date_end: "2019-08-31T12:30:00Z"
-event: Discovery Days at Tryon Creek
-event_url: https://tryonfriends.org/calendar/2019/25-classroom-discovery-days-gy7k2-cd73k-s8222-ap2xa-jr6yh-3r8lb-wha5-amcdd-8skt6-mnmrc-mdjxc-jtcl2-lac3x-3yz4r-5f42f-8t4h8
+date: "2019-09-11T18:30:00Z"
+date_end: "2019-09-11T20:30:00Z"
+event: September Ecology Club
+event_url: https://www.facebook.com/events/2311489129102859/
 featured: false
 image:
   caption: 'Image credit:'
@@ -14,15 +14,15 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/tryonfriends?lang=en
-location: Tryon Creek Park
+  url: https://twitter.com/barkformthood?lang=en
+location: Bark Library
 math: true
 projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: ALL AGES, FREE, NO PRE-REGISTRATION REQUIRED
 tags: [outreach]
-title: Discovery Days
+title: Bark Out For Beavers on Mt. Hood!
 url_code: ""
 url_pdf: ""
 url_slides: ""
