@@ -15,10 +15,6 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/barkformthood?lang=en
-- icon: facebook
-  icon_pack: fab
-  name: Follow
-  url: https://www.facebook.com/barkformthood/
 location: Bark office: 351 NE 18th Ave, Portland, Oregon 97232
 math: true
 projects:
