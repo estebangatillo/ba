@@ -15,12 +15,12 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/barkformthood?lang=en
-location: Bark Library
+location: Bark Library: 351 NE 18th Ave, Portland
 math: true
 projects:
 publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: ALL AGES, FREE, NO PRE-REGISTRATION REQUIRED
+summary: September Ecology Club
 tags: [outreach]
 title: Bark Out For Beavers on Mt. Hood!
 url_code: ""
