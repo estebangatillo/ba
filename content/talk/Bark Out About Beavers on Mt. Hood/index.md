@@ -10,11 +10,6 @@ featured: false
 image:
   caption: 'Image credit: Bark'
   focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/barkformthood?lang=en
 location: Bark office: 351 NE 18th Ave, Portland, Oregon 97232
 math: true
 projects:
