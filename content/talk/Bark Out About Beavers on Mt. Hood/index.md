@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/barkformthood?lang=en
-location: Bark Library: 351 NE 18th Ave, Portland
+location: Bark Library NE Portland
 math: true
 projects:
 publishDate: "2017-01-01T00:00:00Z"
