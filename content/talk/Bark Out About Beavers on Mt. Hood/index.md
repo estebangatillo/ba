@@ -39,3 +39,7 @@ When: September Ecology Club Meeting! September 11th, . 6:30pm-8:30pm
 Who: Anyone!
 
 Why: Relocating beavers is complicated. Come get the full scoop and maybe add to the conversation!
+
+
+
+[Presentation slides](https://docs.google.com/presentation/d/1y4ZstoBXYTk5IEwsfcAjesf92in2m_Nzbhr2UOoRDNA/edit?usp=sharing)
