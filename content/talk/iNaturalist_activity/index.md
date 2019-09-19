@@ -30,7 +30,7 @@ url_video: ""
 ---
 
 
-iNaturalist helps you identify plants and animals around you. The app establishes a connection with a community of over 750,000 scientists and naturalists who can help you learn more about nature! By recording and sharing your observations, you’ll create research quality data for scientists working to better understand and protect nature. iNaturalist is a joint initiative by the California Academy of Sciences and the National Geographic Society. 
+[iNaturalist](https://www.inaturalist.org/) helps you identify plants and animals around you. The app establishes a connection with a community of over 750,000 scientists and naturalists who can help you learn more about nature! By recording and sharing your observations, you’ll create research quality data for scientists working to better understand and protect nature. iNaturalist is a joint initiative by the California Academy of Sciences and the National Geographic Society. 
 
 iNaturalist is relatively easy to use, but a few simple techniques will improve iNaturalist community response, photography skills, and your ability to connect with nature all around. A two hour training session will help you learn these skills then we’ll go out and apply what we learn!
 
