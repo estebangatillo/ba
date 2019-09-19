@@ -8,7 +8,7 @@ event: iNaturalist Adventure
 event_url: https://www.inaturalist.org/
 featured: false
 image:
-  caption: 'Image credit:'
+  caption: 'Image credit: Esteban'
   focal_point: Right
 links:
 - icon: twitter
@@ -57,7 +57,7 @@ WHY: Knowing photographic techniques improves identification and enables users t
 
 [REGISTER HERE](LINK to registration)
 
-![inat_hiw](img/inat_hiw.jpg)
+![inat_pic](img/inat_hiw.JPG)
 
 SESSION TWO: FIELD DAY
 
