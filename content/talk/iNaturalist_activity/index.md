@@ -57,7 +57,7 @@ WHY: Knowing photographic techniques improves identification and enables users t
 
 [REGISTER HERE](LINK to registration)
 
-![inat_pic](img/inat_hiw.JPG)
+
 
 SESSION TWO: FIELD DAY
 
