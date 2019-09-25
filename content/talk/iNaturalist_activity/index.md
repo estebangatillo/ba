@@ -55,7 +55,7 @@ WHERE: Adult Community Center in the Maple Room. 1180 Rosemont Road.
 
 WHY: Knowing photographic techniques improves identification and enables users to take high quality pictures.
 
-[REGISTER HERE](LINK to registration)
+[REGISTER HERE](https://apm.activecommunities.com/westlinn/Activity_Search?detailskeyword=natural&IsAdvanced=False&ddlSortBy=Activity+name&SearchFor=2&SearchLevelID=2&NumberOfItemsPerPage=20&IsSearch=true)
 
 
 
