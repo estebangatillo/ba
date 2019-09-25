@@ -3,7 +3,7 @@ abstract:
 all_day: false
 authors: []
 date: "2019-10-11T18:30:00Z"
-date_end: "2019-10-12T11:30:00Z"
+date_end: "2019-10-12T20:30:00Z"
 event: iNaturalist Adventure
 event_url: https://www.inaturalist.org/
 featured: false
@@ -15,7 +15,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/inaturalist
-location: Bark Library NE Portland
+location: West Linn Adult Community Center
 math: true
 projects:
 publishDate: "2017-01-01T00:00:00Z"
