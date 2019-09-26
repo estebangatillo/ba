@@ -21,7 +21,7 @@ Activities are designed to be as interactive as possible. Students are asked to 
 
 ## Become a Beaver
 
-This lesson demonstrates adaptations beavers evolved to live a semi-aquatic life:
+[This lesson](http://web.pdx.edu/~scm6/become_a_beaver.html#/) demonstrates adaptations beavers evolved to live a semi-aquatic life:
 
 * **Features for swimming**
 * **Traits for building dams**
