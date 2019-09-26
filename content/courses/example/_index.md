@@ -29,7 +29,7 @@ This lesson demonstrates adaptations beavers evolved to live a semi-aquatic life
 
 These traits make beavers one of the most efficient *ecosystem engineers* in the world.
 
-Find the Beaver Ambassador slide show [here]. Other programs have devised similar lesson plans as well:
+Find the Beaver Ambassador slide show [here](http://web.pdx.edu/~scm6/become_a_beaver.html#/tail). Other programs have devised similar lesson plans as well:
 
 * [Buffalo Bill Center of the West](https://centerofthewest.org/wp-content/uploads/2014/02/Animal-Adaptations_Dress-A-Beaver-Activity.pdf)
 * [Colorado Parks and Wildlife](https://cpw.state.co.us/Documents/Education/TeacherResources/MediaKitsCrates/Durango-Beaver-Adaptations-Lesson-Plan.pdf)
