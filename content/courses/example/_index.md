@@ -69,7 +69,7 @@ Adapted from a similar activity developed by Friends of the Tualatin River Wildl
 
 ## Introduction to GIS
 
-Geographic Information Systems (GIS) is an important tool for ecologists and can be used in many different, complex ways. High school students can benefit from an early introductory lesson to GIS, how some professionals use GIS and what students can do with GIS tools.
+Geographic Information Systems (GIS) is an important tool for ecologists and can be used in many different, complex ways. High school students can benefit from an early introductory lesson to GIS, how some professionals use GIS and what students can do with GIS tools. [This introductory lesson](http://web.pdx.edu/~scm6/GIS-Lesson.html#/) uses free, local tools to familiarize students with foundational GIS concepts.
 
 
 
