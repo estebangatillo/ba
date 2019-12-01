@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: 
 summary: Understanding climate adaptation in our own backyard
 tags: [outreach]
-title: The Climate Crisis: Looking Ahead An Evening of Action and Advocacy
+title: "The Climate Crisis: Looking Ahead An Evening of Action and Advocacy""
 url_code: ""
 url_pdf: ""
 url_slides: ""
