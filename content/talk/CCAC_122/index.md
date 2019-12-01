@@ -2,8 +2,8 @@
 abstract: 
 all_day: false
 authors: []
-date: "2019-12-02T19:00:00Z"
-date_end: "2019-12-02T21:00:00Z"
+date: "2019-12-2T19:00:00Z"
+date_end: "2019-12-2T21:00:00Z"
 event: The Climate Crisis: Looking Ahead An Evening of Action and Advocacy
 event_url: https://www.facebook.com/Clackamas-Climate-Action-Coalition-1083013675421295/
 featured: false
